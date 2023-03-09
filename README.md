@@ -3,9 +3,9 @@
 Siga as documentações abaixo para não se perder no desenvolvimento! (Esses pacotes abaixo já vem pré-configurado):
 
 - [Nuxt 3](https://nuxt.com/docs/getting-started/introduction)
-- [VueUse](https://nuxt.com/docs/getting-started/introduction)
-- [@vueuse/motion](https://nuxt.com/docs/getting-started/introduction)
-- [Naive-UI](https://nuxt.com/docs/getting-started/introduction)
+- [VueUse](https://vueuse.org)
+- [@vueuse/motion](https://motion.vueuse.org)
+- [Naive-UI](https://www.naiveui.com/en-US/os-theme)
 
 ## Iniciando
 
