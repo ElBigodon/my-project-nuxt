@@ -20,5 +20,5 @@
 <script lang="ts" setup>
 const message = useMessage();
 
-message.success("Olá!");
+message.success('Olá!');
 </script>
