@@ -2,10 +2,12 @@
 
 Siga as documentações abaixo para não se perder no desenvolvimento! (Esses pacotes abaixo já vem pré-configurado):
 
-- [Nuxt 3](https://nuxt.com/docs/getting-started/introduction)
+- [Nuxt 3](https://nuxt.com/docs/getting-started/introduction) (Versão 3.3.1)
 - [VueUse](https://vueuse.org)
 - [@vueuse/motion](https://motion.vueuse.org)
 - [Naive-UI](https://www.naiveui.com/en-US/os-theme)
+- [Tailwindcss](https://www.naiveui.com/en-US/os-theme)
+- [Nuxt DevTools](https://devtools.nuxtjs.org/) (Atualmente em modo expermental)
 
 ## Iniciando
 
