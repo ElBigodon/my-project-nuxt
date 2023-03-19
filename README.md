@@ -6,7 +6,7 @@ Siga as documentações abaixo para não se perder no desenvolvimento! (Esses pa
 - [VueUse](https://vueuse.org)
 - [@vueuse/motion](https://motion.vueuse.org)
 - [Naive-UI](https://www.naiveui.com/en-US/os-theme)
-- [Tailwindcss](https://www.naiveui.com/en-US/os-theme)
+- [Tailwindcss](https://tailwindcss.com/)
 - [Nuxt DevTools](https://devtools.nuxtjs.org/) (Atualmente em modo expermental)
 
 ## Iniciando
